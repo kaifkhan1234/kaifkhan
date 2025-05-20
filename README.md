@@ -2,7 +2,7 @@
   <img src="![Uploading image.png…]()
 " alt="Kaif Khan Logo" width="300"/>
 </p>
-# Hi there, I'm Kaif Khan 👋
+                                                                                    # Hi there, I'm Kaif Khan 👋
 
 ## 🚀 About Me
 - 🎓 Final year Information Technology student at ITM University, Gwalior (Graduating 2025)
